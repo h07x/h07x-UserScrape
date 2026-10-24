@@ -1,46 +1,36 @@
-# 🔎 h07x GitHub User Info Scraper
+#  h07x GitHub User Info Scraper
 
 <p align="center">
-  <img src="https://github.com/axomtools.png" width="120" alt="Axom Tools avatar">
-</p><h1 align="center">Axom GitHub Info Scraper</h1><p align="center">
-  <b>Explore public GitHub profile information with Python.</b>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=200&section=header&text=h07x%20GitHub%20Scraper&fontSize=35&fontColor=ffffff&animation=fadeIn" width="100%" alt="h07x GitHub User Info Scraper banner">
 </p><p align="center">
-  <a href="https://github.com/axomtools/axom-github-user-info">
-    <img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github" alt="GitHub Repository">
-  </a>
-  <a href="https://github.com/axomtools">
-    <img src="https://img.shields.io/badge/Developer-Axom%20Tools-blue?style=for-the-badge&logo=github" alt="Developer">
-  </a>
-  <a href="https://www.python.org/">
-    <img src="https://img.shields.io/badge/Python-3.x-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  </a>
+  <b>🔎 Explore public GitHub profile information</b>
+  <br>
+  A Python tool for collecting publicly available GitHub account information.
+</p><p align="center">
+  <img src="https://img.shields.io/badge/Project-h07x-8A2BE2?style=for-the-badge" alt="Project h07x">
+  <img src="https://img.shields.io/badge/Language-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/Platform-Termux-4D9F0C?style=for-the-badge&logo=android&logoColor=white" alt="Termux">
 </p>---
-
-📌 About
-
-Axom GitHub User Info Scraper is a Python tool designed to collect publicly available information from GitHub user profiles.
 
 ✨ Features
 
-- 📅 Account creation date
-- 👥 Followers and following
-- 📦 Public repositories
-- 📝 Public Gists
-- 🔗 Social links
-- 🌐 Blog or website
-- 📄 Public profile biography
+- 📅 Account creation date, when available.
+- 👥 Followers and following.
+- 📦 Public repositories.
+- 📝 Public Gists.
+- 🔗 Public social links.
+- 🌐 Blog or website.
+- 📄 Public profile biography.
 
-📸 Preview
+📸 Project Preview
 
 <p align="center">
   <a href="https://github.com/axomtools/axom-github-user-info">
-    <img src="https://opengraph.githubassets.com/1/axomtools/axom-github-user-info" width="90%" alt="Open the project repository on GitHub">
+    <img src="https://opengraph.githubassets.com/1/axomtools/axom-github-user-info" width="90%" alt="Project repository preview">
   </a>
 </p><p align="center">
-  <i>Click the image to visit the repository.</i>
-</p>📥 Installation
-
-Run these commands in Termux:
+  <i>Click the preview to visit the original tool repository.</i>
+</p>📲 Installation — Termux
 
 pkg update
 pkg install git python
@@ -49,33 +39,37 @@ cd axom-github-user-info
 
 🚀 Usage
 
-Start the program:
+Run the program:
 
 python axomgithubscrape.py
 
 Choose option "1" and enter the GitHub username you want to look up.
 
-🔗 Useful Links
+🌐 My Links
 
 <p align="center">
-  <a href="https://github.com/axomtools/axom-github-user-info">
-    <img src="https://img.shields.io/badge/📂_View_Repository-Click_Here-2ea44f?style=for-the-badge" alt="View repository">
+  <a href="https://www.instagram.com/https.not.viv/">
+    <img src="https://img.shields.io/badge/Instagram-https.not.viv-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
-  <a href="https://github.com/axomtools">
-    <img src="https://img.shields.io/badge/👤_GitHub_Profile-Visit-0969DA?style=for-the-badge" alt="GitHub profile">
+  <a href="https://discord.gg/tQ4mZstsxA">
+    <img src="https://img.shields.io/badge/Discord-Join%20Server-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord server">
   </a>
-  <a href="https://docs.github.com/en/rest">
-    <img src="https://img.shields.io/badge/📚_GitHub_API-Documentation-6f42c1?style=for-the-badge" alt="GitHub API documentation">
-  </a>
-</p>⚠️ Disclaimer
+</p>🔎 About This Project
 
-- This tool is intended for publicly available information.
-- GitHub may apply rate limits.
-- Never use this tool to harass others or attempt unauthorized access.
-- Review the source code before executing it.
+This README presents the h07x GitHub User Info Scraper project with a purple theme and clickable links.
+
+The scraping script referenced here belongs to the original repository linked above. Customize the repository and script links if you publish your own version.
+
+⚠️ Disclaimer
+
+- Only publicly accessible information is intended.
+- GitHub may enforce request limits.
+- Do not use collected information to harass others or attempt unauthorized access.
+- Review the source code before running downloaded scripts.
 
 ---
 
 <p align="center">
-  <b>Made for learning and exploring public GitHub data.</b>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=100&section=footer" width="100%" alt="Purple footer">
+  <b>🔎  h07x · GitHub Tools</b>
 </p>
