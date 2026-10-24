@@ -49,7 +49,7 @@ Follow the instructions displayed by the program.
 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://www.instagram.com/https.not.viv/">
+  <a href="https://www.instagram.com/https.not.vic/">
     <img src="https://img.shields.io/badge/Instagram-Visit%20Profile-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
   <a href="https://discord.gg/tQ4mZstsxA">
